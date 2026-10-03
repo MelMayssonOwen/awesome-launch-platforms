@@ -14,6 +14,7 @@
 * [Launching Next](https://www.launchingnext.com) – List your project for free exposure.
 * [Open Launch](https://open-launch.com/) - Opensource alternative to ProductHunt
 * [PeerPush](https://peerpush.net/) - Get instant visibility for your product. Be discovered by people who care now.
+* [Launch Llama Directory](https://tools.launchllama.co) - Submit your product and get discovered in our 55k newsletter. 
 * [Toolfound](https://toolfound.com) – Launch platform and tool directory with a transparent queue, mandatory ownership verification, and an agent-native MCP submission path.
 
 ---
@@ -46,6 +47,13 @@
 * [Productivity Directory](https://productivity.directory) – Find Productivity Tools
 * [Toolkitly](https://www.toolkitly.com) – Your Go-To Platform for Tech Tool Discussions, Innovations & Real-Time Updates!
 
+
+---
+
+## 📱 Launch Platforms for Apps
+
+* [MacNative](https://macnative.io) – Hand-picked directory of the best macOS apps, with screenshots for every listing.
+* [Awesome Mac Launch Platforms](https://github.com/macnative/awesome-mac-launch-platforms) – Curated list of where to launch a macOS app specifically — submission platforms, subreddits, GitHub awesome lists, and newsletters.
 
 ---
 
